@@ -11,7 +11,8 @@ base {
 }
 
 loom {
-    accessWidenerPath = file("src/main/resources/fireclient.accesswidener")
+    accessWidenerPath = file("fc--main (1)/fc--main/src/main/resources/fireclient.accesswidener")
+
 }
 
 repositories {
